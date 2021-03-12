@@ -7,4 +7,5 @@ le soleil est une étoile autour de laquelle gravite la terre
 - Diamètre moyen : 1 392 684 km
 - Température de surface : 5505 °C
 - Rayon equatorial : 696 342 km
-- couronne : 1000000°C
+- Couronne : 1000000°C
+
