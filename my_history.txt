@@ -1,0 +1,303 @@
+    1  git config --global user.name "cara"
+    2  git config -- global user.email "claudia.ayika@yahoo.com"
+    3  git config -- global user.email claudia.ayika@yahoo.com
+    4  git config --global user.email "claudia.ayika@yahoo.com"
+    5  config --global core.editor "code --wait"
+    6  config --global core.editor "code --wait(VScode)"
+    7  config --global core.editor "[code --wait(VScode)]"
+    8  config --global core.editor "[code --wait]"
+    9  config --global core.editor code--wait
+   10  config --global core.editor code --wait
+   11  config --global core.editor code 
+   12  code --help
+   13  git config --global core.editor "code --wait"
+   14  https://github.com/Ludwigang/corps-celestes.git
+   15  git clone https://github.com/Ludwigang/corps-celestes.git
+   16  git log
+   17  git reflog
+   18  git status
+   19  git show
+   20  git log
+   21  git log -1
+   22  git commit
+   23  git clone https://github.com/Ludwigang/corps-celestes.git
+   24  status --help
+   25  git show
+   26  .git/ignore
+   27  ~/.gitignore
+   28  git show --help
+   29  ls -al
+   30  ls
+   31  git code .
+   32  code .
+   33  git clone https://github.com/Ludwigang/corps-celestes.git
+   34  git reset 
+   35  git clone gh repo clone Ludwigang/corps-celestes
+   36  git clone https://github.com/Ludwigang/corpus-celestes.git
+   37  .code
+   38  code .
+   39  cd etoiles
+   40  mkdir etoiles
+   41  mkdir planetes 
+   42  mkdir autres
+   43  git mv mercure.md planetes
+   44  ls etoiles
+   45  ls planetes
+   46  code .
+   47  ls
+   48  ls corps-celestes
+   49  git status
+   50  git clone mercure.md
+   51  git clone https://github.com/mpelleau/corps-celestes.git
+   52  wget https://github.com/mpelleau/corps-celestes.git
+   53  wget https://github.com/mpelleau/corps-celestes/blob/main/mercure.md
+   54  git --version
+   55  cd corps-celestes
+   56  ls -al
+   57  cd planetes
+   58  ls
+   59  rmdir planetes
+   60  cd planetes
+   61  mkdir planetes
+   62  mkdir etoiles autres
+   63  cd planetes
+   64  wget https://github.com/mpelleau/corps-celestes/blob/main/mercure.md
+   65  git help
+   66  git help wget
+   67  getw https://github.com/mpelleau/corps-celestes/blob/main/mercure.md
+   68  wget https://github.com/mpelleau/corps-celestes/blob/main/mercure.md
+   69  cd corps-celestes
+   70  cd planetes
+   71  wget https://github.com/mpelleau/corps-celestes/blob/main/mercure.md
+   72  cd corps-celestes
+   73  cd planetes
+   74  wget https://github.com/mpelleau/corps-celestes/blob/main/mercure.md
+   75  git wget https://github.com/mpelleau/corps-celestes/blob/main/mercure.md
+   76  git --help
+   77  cd corps-celestes
+   78  cd planetes
+   79  wget64 git [--version] [--help] [-C <path>] [-c <name>=<value>]
+   80             [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+   81             [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+   82             [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+   83             <command> [<args>]
+   84  These are common Git commands used in various situations:
+   85  start a working area (see also: git help tutorial)
+   86     clone             Clone a repository into a new directory
+   87     init              Create an empty Git repository or reinitialize an existing one
+   88  work on the current change (see also: git help everyday)
+   89     add               Add file contents to the index
+   90     mv                Move or rename a file, a directory, or a symlink
+   91     restore           Restore working tree files
+   92     rm                Remove files from the working tree and from the index
+   93     sparse-checkout   Initialize and modify the sparse-checkout
+   94  examine the history and state (see also: git help revisions)
+   95     bisect            Use binary search to find the commit that introduced a bug
+   96     diff              Show changes between commits, commit and working tree, etc
+   97     grep              Print lines matching a pattern
+   98     log               Show commit logs
+   99     show              Show various types of objects
+  100     status            Show the working tree status
+  101  grow, mark and tweak your common history
+  102     branch            List, create, or delete branches
+  103     commit            Record changes to the repository
+  104     merge             Join two or more development histories together
+  105     rebase            Reapply commits on top of another base tip
+  106     reset             Reset current HEAD to the specified state
+  107     switch            Switch branches
+  108     tag               Create, list, delete or verify a tag object signed with GPG
+  109  collaborate (see also: git help workflows)
+  110     fetch             Download objects and refs from another repository
+  111     pull              Fetch from and integrate with another repository or a local branch
+  112     push              Update remote refs along with associated objects
+  113  'git help -a' and 'git 
+  114  wget git [--version] [--help] [-C <path>] [-c <name>=<value>]
+  115             [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+  116             [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+  117             [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+  118             <command> [<args>]
+  119  These are common Git commands used in various situations:
+  120  start a working area (see also: git help tutorial)
+  121     clone             Clone a repository into a new directory
+  122     init              Create an empty Git repository or reinitialize an existing one
+  123  work on the current change (see also: git help everyday)
+  124     add               Add file contents to the index
+  125     mv                Move or rename a file, a directory, or a symlink
+  126     restore           Restore working tree files
+  127     rm                Remove files from the working tree and from the index
+  128     sparse-checkout   Initialize and modify the sparse-checkout
+  129  examine the history and state (see also: git help revisions)
+  130     bisect            Use binary search to find the commit that introduced a bug
+  131     diff              Show changes between commits, commit and working tree, etc
+  132     grep              Print lines matching a pattern
+  133     log               Show commit logs
+  134     show              Show various types of objects
+  135     status            Show the working tree status
+  136  grow, mark and tweak your common history
+  137     branch            List, create, or delete branches
+  138     commit            Record changes to the repository
+  139     merge             Join two or more development histories together
+  140     rebase            Reapply commits on top of another base tip
+  141     reset             Reset current HEAD to the specified state
+  142     switch            Switch branches
+  143     tag               Create, list, delete or verify a tag object signed with GPG
+  144  collaborate (see also: git help workflows)
+  145     fetch             Download objects and refs from another repository
+  146     pull              Fetch from and integrate with another repository or a local branch
+  147     push              Update remote refs along with associated objects
+  148  cd corps-celestes
+  149  cd planetes
+  150  wget https://github.com/mpelleau/corps-celestes/blob/main/mercure.md
+  151  https://github.com/mpelleau/corps-celestes/blob/main/mercure.png
+  152  wget https://github.com/mpelleau/corps-celestes/blob/main/mercure.png
+  153  ls
+  154  git commit mercure
+  155  git status
+  156  git commit
+  157  git commit -a
+  158  git commit
+  159  git config user.email "claudia.ayika@yahoo.com"
+  160  git config user.name "cara"
+  161  git config core.editor "code --wait"
+  162  git commit
+  163  git push
+  164  git push
+  165  cd etoiles
+  166  cd
+  167  cd corps-celestes
+  168  cd planetes
+  169  cd .
+  170  cd..
+  171  cd.
+  172  cd 
+  173  cd corps-celestes
+  174  cd planetes
+  175  cd
+  176  cd corps-celestes
+  177  cd etoiles
+  178  cd 
+  179  cd corps-celestes
+  180  cd planetes
+  181  ls
+  182  git pull
+  183  git push
+  184  cd 
+  185  cd corps-celestes/etoiles
+  186  touch soleil.md
+  187  touch soleil.png
+  188  ls
+  189  git commit
+  190  git pull
+  191  git push
+  192  cd
+  193  cd corps-celestes
+  194  git log
+  195  ls
+  196  cd planetes
+  197  ls
+  198  git commit
+  199  cd corps-celestes
+  200  cd planetes
+  201  ls
+  202  cd
+  203  cd corps-celestes
+  204  ls
+  205  ls -l
+  206  cd planetes
+  207  ls
+  208  git log
+  209  git status
+  210  git push
+  211  ls
+  212  cd..
+  213  CD ..
+  214  cd ..
+  215  git status
+  216  git add planetes
+  217  git status
+  218  git add etoiles
+  219  git add .gitignore
+  220  git status
+  221  git commit
+  222  git commit -m "ajout de mercure et soleil"
+  223  git push
+  224  pwd
+  225  git diff
+  226  git commit
+  227  git commit etoiles/soleil.png
+  228  git push
+  229  git stash
+  230  git pull
+  231  git diff
+  232  git push
+  233  code .
+  234  cd autres
+  235  touch Lune
+  236  git status
+  237  ls
+  238  mv Lune Lune.md
+  239  touch Lune.png
+  240  git add autres
+  241  git commit 
+  242  ls
+  243  git commit
+  244  git push
+  245  git status
+  246  git tag TAG
+  247  git push origin TAG
+  248  cd .
+  249  cd ..
+  250  cd planetes
+  251  touch pluton.md
+  252  git status
+  253  git add autres
+  254  git commit pluton.md
+  255  git commit
+  256  git add autres/pluton.d
+  257  git push
+  258  cd ..
+  259  cd autres
+  260  git add autres
+  261  git status
+  262  git status
+  263  ls
+  264  git log
+  265  git add 
+  266  git add Lune.md Lune.png
+  267  git commit 
+  268  git push
+  269  cd ..
+  270  ls
+  271  cd planetes
+  272  ls
+  273  git status
+  274  git add pluton.md
+  275  git commit
+  276  git push
+  277  code .
+  278  git pull
+  279  git stash
+  280  git pull
+  281  git push 
+  282  git commmit pluton.md -m "Pluton nest plus une planete"
+  283  git commit pluton.md -m "Pluton nest plus une planete"
+  284  code .
+  285  git mv pluton.md ../autres
+  286  git status
+  287  git commit -m "Déplacement de Pluton fixes #4"
+  288  git push
+  289  touch voyager1.png
+  290  git status
+  291  git add voyager1.png
+  292  git commit
+  293  git push
+  294  git rm --help
+  295  git rm --help
+  296  git rm voyager1.png --cached
+  297  ls
+  298  git status
+  299  git commit
+  300  git push
+  301  git mv history ../autres
+  302  history
+  303  history > my_history.txt
